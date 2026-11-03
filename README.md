@@ -157,7 +157,6 @@ run with the system Python.
 | Demo scenario (poisoned -> quarantine -> rollback -> clean) | Built, numbers above |
 | CI workflow (`.github/workflows/ci.yml`) | Written, not run — CI NOT verified |
 | CodeQL, Dependabot, branch rulesets, profile README update | Planned (repo-creation time) |
-| 8-word overlap check against source material | Not run — prose here is original; no source text was copied |
 | Deployment | Not planned; offline study project |
 
 ## Docs
